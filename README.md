@@ -29,7 +29,7 @@ This project predicts product sales using machine learning (XGBoost) based on hi
 
 - Actual vs Predicted Sales Plot  
 - Real-time forecast line chart  
-- (Optional: Feature importance bar chart)
+
 
 ---
 
